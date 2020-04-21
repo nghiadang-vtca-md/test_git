@@ -5,5 +5,4 @@ change something
 test view changes with diff
 test the second line for line above
 
-nhi van
-nghia dang 33
+chages text to commit branch "new_feature"
