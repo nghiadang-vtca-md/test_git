@@ -1,0 +1,8 @@
+# This is a comment
+
+access.log
+.DS_Store
+*.zip
+
+assets/videos/
+!assets/videos/tour_*.mp4
