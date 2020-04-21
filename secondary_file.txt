@@ -1,5 +1,5 @@
 this is second file.
 add more to second
 
-nghia dang duc
+test amend commit
 test commit multiple messages
