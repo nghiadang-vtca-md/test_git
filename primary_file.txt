@@ -4,6 +4,8 @@ change something
 
 test view changes with diff
 test the second line for line above
-
+Line1
+Line2
+Line3
 nhi van
 nghia dang 33
