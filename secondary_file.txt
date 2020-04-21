@@ -4,6 +4,4 @@ add more to second
 test amend commit
 test commit multiple messages
 
-nhi cuc bot
-nghia tuon tuon
-code tiep doan nay roi commit moi
+nhi beu
