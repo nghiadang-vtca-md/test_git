@@ -1,8 +1,9 @@
 this is a test. sua dong 1
 second change
 change something
-<Tag>Dong nay de test conflict (dong so 4)<Tag>
-<Tag>Dong nay de test conflict (dong so 5)<Tag>
+<Thay_doi>Dong nay de test conflict (dong so 4)<Thay_doi>
+<Thay_doi>Dong nay de test conflict (dong so 5)<Thay_doi>
+<Thay_doi>Dong nay de test conflict (dong so 6)<Thay_doi>
 test view changes with diff
 test the second line for line above
 
